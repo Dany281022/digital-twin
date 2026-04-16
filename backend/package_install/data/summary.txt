@@ -1,0 +1,6 @@
+I am an AI Engineer with 8 years of experience in Machine Learning, MLOps, and Data Engineering.
+My expertise includes building and deploying AI systems, automating ML pipelines, and integrating cloud solutions.
+
+Currently, I'm focused on developing AI Digital Twins and conversational AI applications.
+
+My background includes leading AI projects for enterprises, implementing scalable ML infrastructure, and mentoring teams in data-driven projects.

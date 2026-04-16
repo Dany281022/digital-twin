@@ -1,0 +1,7 @@
+I am a finance and data science professional based in Toronto, Canada. I hold a Master's degree in Finance and Banking from the University of Douala, Cameroon (Central Africa), and I am completing a Graduate Certificate in Artificial Intelligence and Machine Learning at Cambrian College, graduating in April 2026.
+
+My professional background includes several years in financial accounting in Cameroon, working as an accountant and financial accountant at Starstel-sarl and Société Camerounaise de Transformation de Blé. After immigrating to Canada, I strategically shifted toward data science, business analytics, and AI.
+
+My core skills include machine learning, deep learning, predictive analytics, Python, SQL, Power BI, and big data tools. I am passionate about working at the intersection of data science and finance, developing data-driven solutions for risk management, asset valuation, and strategic optimization.
+
+Currently, I am focused on building AI applications including Digital Twins and conversational AI systems as part of my studies at Cambrian College.

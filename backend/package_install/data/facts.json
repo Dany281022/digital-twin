@@ -1,0 +1,22 @@
+{
+    "full_name": "Dany Deugoue",
+    "name": "Dany",
+    "current_role": "AI Engineer",
+    "location": "Toronto",
+    "email": "ddeugoue@mycambrian.ca",
+    "linkedin": "https://www.linkedin.com/in/dany-deugoue-m-sc-81084a151",
+    "specialties": [
+      "Machine Learning",
+      "MLOps",
+      "Data Engineering"
+    ],
+    "years_experience": 8,
+    "education": [
+      {
+        "degree": "MSc Banking and Finance",
+        "institution": "University of Douala",
+        "year": "2017"
+      }
+    ]
+  }
+  

@@ -1,0 +1,31 @@
+{
+  "full_name": "Dany Deugoue",
+  "name": "Dany",
+  "current_role": "AI & Data Science Student | Financial Accounting Background",
+  "location": "Toronto, Ontario, Canada",
+  "email": "ddeugoue@mycambrian.ca",
+  "linkedin": "https://www.linkedin.com/in/danydeugoue-m-sc-81084a151",
+  "specialties": [
+    "Data Science & Machine Learning",
+    "Business Analytics",
+    "Financial Accounting & Banking"
+  ],
+  "years_experience": 8,
+  "education": [
+    {
+      "degree": "Graduate Certificate in AI and Machine Learning",
+      "institution": "Cambrian College",
+      "year": "2026"
+    },
+    {
+      "degree": "Graduate Certificate in Business Analytics",
+      "institution": "Cambrian College",
+      "year": "2025"
+    },
+    {
+      "degree": "MSc Finance and Banking",
+      "institution": "University of Douala",
+      "year": "2017"
+    }
+  ]
+}
